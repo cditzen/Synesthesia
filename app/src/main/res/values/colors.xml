@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryMid">#803F51B5</color>
+    <color name="colorPrimaryLight">#803F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="blue_gradient_dark">#FF3F51B5</color>
+    <color name="blue_gradient_mid">#A33F51B5</color>
+    <color name="blue_gradient_light">#013F51B5</color>
+
+    <color name="green_gradient_dark">#FF00FF00</color>
+    <color name="green_gradient_mid">#5000FF00</color>
+    <color name="green_gradient_light">#0100FF00</color>
+
+    <color name="case_gradient_white">#FFFFFF</color>
+    <color name="case_gradient_center">#80FFFFFF</color>
+    <color name="case_gradient_transparent">#00FFFFFF</color>
+
+
+</resources>
